@@ -14,4 +14,5 @@ This project simulates a real-world banking system using SQL.
 This project includes a structured database designed to manage customers, accounts, and transactions. It demonstrates data integrity, relationships, and analytical capabilities using KPIs.
 
 ## Database Schema
-(Upload and display diagram here)
+Below is the relational structure of the banking system database:
+![DA_Bank.sql] (Screenshot 2026-02-16 004352.png)
