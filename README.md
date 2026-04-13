@@ -15,4 +15,6 @@ This project includes a structured database designed to manage customers, accoun
 
 ## Database Schema
 Below is the relational structure of the banking system database:
-![DA_Bank.sql] (Screenshot 2026-02-16 004352.png)
+![Database Schema](Screenshot%202026-02-16%20004352.png)
+
+[Click here to view the full SQL script](DA_Bank.sql)
